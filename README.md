@@ -1,2 +1,2 @@
 # first-repository
-这是我的首个项目，还没想好做什么
+It's my first project. I haven't decided what to do yet.
